@@ -66,3 +66,7 @@ The models also rely on previous grades, meaning they are most useful after firs
 ## Responsible Use
 
 Predictions should not be used as the sole basis for decisions about students academic abilities or opportunities.
+
+## GitHub Repository
+
+https://github.com/meg285/CT4101---Project
